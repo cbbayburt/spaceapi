@@ -1,0 +1,14 @@
+-------------------------------------------------------------------
+Wed Feb 16 14:35:43 UTC 2022 - Can Bayburt <cbbayburt@suse.com> - 0.2.0
+
+- Add bash completion
+
+-------------------------------------------------------------------
+Thu Feb 10 18:45:25 UTC 2022 - Can Bayburt <cbbayburt@suse.com> - 0.1.0
+
+- Use git release
+
+-------------------------------------------------------------------
+Thu Feb 10 17:02:13 UTC 2022 - Can Bayburt <cbbayburt@suse.com>
+
+- Initial commit
