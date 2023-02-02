@@ -18,7 +18,7 @@
 
 Name:           spaceapi
 Version:        0.2.0
-Release:        1%{?dist}
+Release:        2
 Summary:        A convenient shortcut to call XMLRPC API via spacecmd
 License:        GPL-3.0-or-later
 URL:            https://github.com/cbbayburt/spaceapi
