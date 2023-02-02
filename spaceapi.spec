@@ -22,7 +22,7 @@ Release:        2
 Summary:        A convenient shortcut to call XMLRPC API via spacecmd
 License:        GPL-3.0-or-later
 URL:            https://github.com/cbbayburt/spaceapi
-Source:         https://github.com/cbbayburt/spaceapi/archive/refs/tags/v%{version}.tar.gz
+Source0:        %{name}-%{version}.tar.gz
 Requires:       spacecmd
 BuildArch:      noarch
 
