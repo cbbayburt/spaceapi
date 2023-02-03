@@ -1,6 +1,8 @@
 # spaceapi
 A convenient shortcut to call XMLRPC API via spacecmd
 
+[![build result](https://build.opensuse.org/projects/home:cbbayburt:Uyuni:Utils/packages/spaceapi/badge.svg?type=default)](https://build.opensuse.org/package/show/home:cbbayburt:Uyuni:Utils/spaceapi)
+
 ## Installation
 
 ### Download repositories
